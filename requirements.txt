@@ -101,8 +101,8 @@ pytest-cov==7.1.0
 python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
 python-engineio==4.13.1
-#python-sat==0.1.8.dev17
-python-sat==1.9.dev15
+python-sat==0.1.8.dev17
+#python-sat==1.9.dev15
 python-socketio==5.16.1
 pytokens==0.4.1
 pytz==2024.2
