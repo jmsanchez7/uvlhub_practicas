@@ -1,5 +1,5 @@
 [project]
-name = "uvlhub"
+name = "uvlhub test"
 version = "1.0.0"
 description = "UVLHub — Flask product built on splent_framework."
 readme = "README.md"
